@@ -43,7 +43,6 @@ tm*.lck
 tm*.log
 tm.out
 worker*.log
-/bin
 .creds.sh
 project/.gnupg/
 project/metals.sbt
